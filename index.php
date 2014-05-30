@@ -1,6 +1,5 @@
-fdfdfdf
-5555555
 <?php
 	echo "Ratchaprasong";
+	echo "test drone";
 	echo phpinfo();
 ?>
