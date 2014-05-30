@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-<!--  fdfdfdf -->
-=======
->>>>>>> 7263f1b527fa944b87c122a3875348aacc1829aa
+
 <?php
 	echo "php version 5.3";
 	echo "Ratchaprasong";
 	echo "test drone";
-	echo phpinfo();
 
 
 
