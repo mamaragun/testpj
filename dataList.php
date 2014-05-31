@@ -1,4 +1,4 @@
-<?php include "dbconn.php"?>
+<?php include "dbconf.php"?>
 <?php
 
 $SQL= "SELECT firstname , lastname , nickname , picture , detail FROM commentator";
