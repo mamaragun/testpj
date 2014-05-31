@@ -2,7 +2,7 @@
 header ('Content-type: text/html; charset=utf-8');
 include "config.php";
 
-$SQL= "SELECT firstname , lastname , nickname , picture , comment FROM commentator";
+$SQL= "SELECT firstname , lastname , nickname , picture , detail FROM commentator";
 
 echo "<table class='table table-border'>";
 
@@ -15,7 +15,7 @@ echo "<td><img style='width:300px; height;200px;' src='".$row['picture']."'></td
 echo "<td>".$row['firstname']."</td>";
 echo "<td>".$row['lastname']."</td>";
 echo "<td>".$row['nickname']."</td>";
-echo "<td>".$row['comment']."</td>";
+echo "<td>".$row['detail']."</td>";
 echo "</tr>";
 }
 
