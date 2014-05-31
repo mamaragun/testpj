@@ -26,9 +26,9 @@
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;" >
-    <img src='http://128.199.230.16/ratchaprasong/undercon.png'   /> 
-
-  <div style="display:none;">
+<!--     <img src='http://128.199.230.16/ratchaprasong/undercon.png'    /> 
+ -->
+  <div style="">
   <nav class="navbar navbar-default" role="navigation">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -44,39 +44,14 @@
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
-          <ul class="dropdown-menu">
-            <li><a href="#">Action</a></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
-            <li class="divider"></li>
-            <li><a href="#">Separated link</a></li>
-            <li class="divider"></li>
-            <li><a href="#">One more separated link</a></li>
-          </ul>
-        </li>
-      </ul>
+      
       <form class="navbar-form navbar-left" role="search">
         <div class="form-group">
           <input type="text" class="form-control" placeholder="Search">
         </div>
         <button type="submit" class="btn btn-default">Submit</button>
       </form>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Link</a></li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
-          <ul class="dropdown-menu">
-            <li><a href="#">Action</a></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
-            <li class="divider"></li>
-            <li><a href="#">Separated link</a></li>
-          </ul>
+
         </li>
       </ul>
     </div><!-- /.navbar-collapse -->
@@ -87,8 +62,8 @@
  	<div class="col-md-2 column">
     </div>
 
-    <div class="col-md-8 column " style="">
-	 <img src='http://128.199.230.16/ratchaprasong/banner4.jpg'  style="margin-bottom:20px; margin-left:-25px;" /> 
+    <div class="col-md-8 column " align="center">
+	 <img src='http://128.199.230.16/ratchaprasong/banner4.jpg'  style="margin-bottom:20px; " /> 
 	
 
 
@@ -112,7 +87,7 @@
  <div> 
         <p> 
       <a class="btn btn-danger btn-lg" role="button" style="" >คะแนน 8/10</a>
-      <a class="btn btn-primary btn-lg" role="button" >Read more & Comment</a></p>
+      <a href="http://128.199.230.16/ratchaprasong/detail.php" class="btn btn-primary btn-lg" role="button" >Read more & Comment</a></p>
 
 <!--     <iframe width="560" height="315" src="//www.youtube.com/embed/nRsfC5ErY_c" frameborder="0" allowfullscreen ></iframe></div>
  -->
