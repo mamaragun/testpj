@@ -83,6 +83,7 @@
 
  	<div class="col-md-2 column">
     </div>
+   <img src='http://128.199.230.16/ratchaprasong/banner4.jpg'  style="margin-bottom:20px; margin-left:-25px;" /> 
 
     <div class="col-md-8 column ">
 	<div class="jumbotron">
@@ -99,9 +100,22 @@
 
   	<p >นักพากย์ คือผู้ที่ให้เสียงสำหรับภาพยนตร์เอะนิเมะชัน ภาพยนตร์ต่างประเทศ การ์ตูน ละครทีวี หรือวิทยุ นักพากย์การ์ตูน นักพากย์เสียงอาจจะใช้ฉายา ของตัวเองในการพากย์เพื่อให้ ผู้ฟังหรือผู้ชมจดจำได้ง่าย เช่น น้าต๋อยเซมเบ้ หลายครั้งที่นักพากย์เสียงไม่เป็นที่รู้จักของประชาชน เนื่องจากไม่ได้ปรากฏตัวให้ผู้อื่นจำหน้าได้ บางครั้งอาจให้นักแสดงที่มีชื่อเสียงมาเป็นนักพากย์ เพื่อให้ผู้ชมจำเสียงได้</p>
 	<div align="center" > 
-        <p><a class="btn btn-primary btn-lg" role="button" style="margin-top:50px;">Read more & Comment</a></p>
 
-    <iframe width="560" height="315" src="//www.youtube.com/embed/nRsfC5ErY_c" frameborder="0" allowfullscreen ></iframe></div>
+    <iframe width="560" height="315" src="//www.youtube.com/embed/nRsfC5ErY_c" frameborder="0" allowfullscreen ></iframe>
+
+  </div>
+  
+  <br>
+  <br>
+  <div class="input-group">
+      <input type="text" class="form-control">
+       <span class="input-group-btn">
+        <button class="btn btn-primary" type="button">comment!</button>
+      </span>
+    </div><!-- /input-group -->
+
+  <p><a class="btn btn-primary btn-lg" role="button" style="margin-top:50px;">Comments</a></p>
+
 
   </div>
 
