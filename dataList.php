@@ -8,7 +8,7 @@ $SQL=mysql_query("SELECT firstname , lastname , nickname , picture , comment FRO
 
 echo "<table class='table table-border'>";
 
-$objQuery = mysql_query($SQL);
+$objQuery = mysql_query($SQL) or die(mysql_error);
 while($row=mysql_fetch_array($objQuery){
 echo "<tr>";
 echo "<td>".$row['firstname']."</td>";
