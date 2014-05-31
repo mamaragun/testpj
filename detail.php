@@ -36,7 +36,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Brand</a>
+      <a class="navbar-brand" href="#">Ratchaprasong</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -83,9 +83,10 @@
 
  	<div class="col-md-2 column">
     </div>
-   <img src='http://128.199.230.16/ratchaprasong/banner4.jpg'  style="margin-bottom:20px; margin-left:-25px;" /> 
 
     <div class="col-md-8 column ">
+         <img src='http://128.199.230.16/ratchaprasong/banner4.jpg'  style="margin-bottom:20px; margin-left:-25px;" /> 
+
 	<div class="jumbotron">
     <div class ="big_fram"style="" align="center"  >
       <div class= "big_face">
