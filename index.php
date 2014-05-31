@@ -62,7 +62,7 @@
  	<div class="col-md-2 column">
     </div>
 
-    <div class="col-md-8 column " style="">
+    <div class="col-md-8 column " align="center">
 	 <img src='http://128.199.230.16/ratchaprasong/banner4.jpg'  style="margin-bottom:20px; " /> 
 	
 
