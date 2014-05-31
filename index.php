@@ -5,7 +5,21 @@
 	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
 	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
 	<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-	
+	<style>
+  .big_fram {
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+    width: 200px;
+    margin: 50px;
+}
+.big_face {
+    height: 100%;
+    margin-left: -16px;
+    position: absolute;
+    width: auto;
+}
+  </style>
 	</head>
 	 <body style="background:  url('http://www.thomascraigconsulting.com/uploads/2010/12/Chelsea_FC_by_geckokid.jpg') no-repeat fixed center;   -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -72,13 +86,15 @@
 
     <div class="col-md-8 column ">
 	<div class="jumbotron">
-    <div style="float:left;"  >
-    <img src='http://f.ptcdn.info/453/009/000/1378645129-373b47d37d-o.jpg' height="300" width="200" style="margin:10px;"/>
+    <div class ="big_fram"style="float:left;"  >
+      <div class= "big_face">
+    <img src='http://f.ptcdn.info/453/009/000/1378645129-373b47d37d-o.jpg'  style="margin-left:-80px;"/>
+  </div>
   </div>
   	<h2>เอกราช เก่งทุกทาง (ฉายา)</h2>
 
   	<p style="height:200px;">นักพากย์ คือผู้ที่ให้เสียงสำหรับภาพยนตร์เอะนิเมะชัน ภาพยนตร์ต่างประเทศ การ์ตูน ละครทีวี หรือวิทยุ นักพากย์การ์ตูน นักพากย์เสียงอาจจะใช้ฉายา ของตัวเองในการพากย์เพื่อให้ ผู้ฟังหรือผู้ชมจดจำได้ง่าย เช่น น้าต๋อยเซมเบ้ หลายครั้งที่นักพากย์เสียงไม่เป็นที่รู้จักของประชาชน เนื่องจากไม่ได้ปรากฏตัวให้ผู้อื่นจำหน้าได้ บางครั้งอาจให้นักแสดงที่มีชื่อเสียงมาเป็นนักพากย์ เพื่อให้ผู้ชมจำเสียงได้</p>
-    <p><a class="btn btn-primary btn-lg" role="button">Read more</a></p>
+    <p><a class="btn btn-primary btn-lg" role="button" style="margin-top:50px;">Read more</a></p>
 	</div>
 
     </div>
