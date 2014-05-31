@@ -63,7 +63,7 @@
     </div>
 
     <div class="col-md-8 column " style="">
-	 <img src='http://128.199.230.16/ratchaprasong/banner4.jpg'  style="margin-bottom:20px; margin-left:-25px;" /> 
+	 <img src='http://128.199.230.16/ratchaprasong/banner4.jpg'  style="margin-bottom:20px; " /> 
 	
 
 
@@ -87,7 +87,7 @@
  <div> 
         <p> 
       <a class="btn btn-danger btn-lg" role="button" style="" >คะแนน 8/10</a>
-      <a class="btn btn-primary btn-lg" role="button" >Read more & Comment</a></p>
+      <a href="http://128.199.230.16/ratchaprasong/detail.php" class="btn btn-primary btn-lg" role="button" >Read more & Comment</a></p>
 
 <!--     <iframe width="560" height="315" src="//www.youtube.com/embed/nRsfC5ErY_c" frameborder="0" allowfullscreen ></iframe></div>
  -->

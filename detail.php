@@ -107,6 +107,7 @@
  <div> 
         <p> 
       <a class="btn btn-danger btn-lg" role="button" style="" >คะแนน 8/10</a>
+      <a href="http://128.199.230.16/ratchaprasong/" class="btn btn-primary btn-lg" role="button" style="" >Back</a>
 
 <!--     <iframe width="560" height="315" src="//www.youtube.com/embed/nRsfC5ErY_c" frameborder="0" allowfullscreen ></iframe></div>
  -->
@@ -132,7 +133,7 @@
     </div><!-- /input-group -->
 
   <p><a class="btn btn-primary btn-lg" role="button" style="margin-top:50px;">Comments</a></p>
-  <div  style="background-color:white; " width="200" height="100" >
+  <div   style="background-color:white; height:50px;" width="200"  >
 ก็โอเคนะ
 
 </div>
