@@ -115,20 +115,3 @@ echo "<img src='http://f.ptcdn.info/453/009/000/1378645129-373b47d37d-o.jpg'/>";
 
 
 </html>
-<<<<<<< HEAD
-
-
-<?php
-	// echo "php version 5.3";
-	// echo "Ratchaprasong";
-	// echo "test drone";
-
-
-
-	//echo "<img src='http://f.ptcdn.info/453/009/000/1378645129-373b47d37d-o.jpg'/>";
->>>>>>> 48c97557559d4cb8ba783211f6d1eb6a8fe9df54
-
-
-?>
-=======
->>>>>>> a81f52e599bbe529b8a6cde259508ed524661ba3
