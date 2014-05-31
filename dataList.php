@@ -11,7 +11,11 @@ while($row = mysql_fetch_array($objQuery))
 
 {
 echo "<tr>";
+echo "<td><img src='".$row['picture']."'></td>";
 echo "<td>".$row['firstname']."</td>";
+echo "<td>".$row['lastname']."</td>";
+echo "<td>".$row['nickname']."</td>";
+echo "<td>".$row['comment']."</td>";
 echo "</tr>";
 }
 
