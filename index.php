@@ -12,6 +12,7 @@
     position: relative;
     width: 200px;
     margin: -10px;
+    float: left;
 }
 .big_face {
     height: 100%;
@@ -86,23 +87,28 @@
 
     <div class="col-md-8 column ">
 	<div class="jumbotron">
-    <div class ="big_fram"style="" align="center"  >
+    <div class ="big_fram"style="" align="center"   >
       <div class= "big_face">
 
     <img src='http://t2.gstatic.com/images?q=tbn:ANd9GcQr2sr9VcoijmctscWiRbJhLHYGuTSpT9N2kRD04fYgObKQbVwO'  style="margin-left:-80px;"/>
 
   </div>
   </div>
-        <a class="btn btn-danger btn-lg" role="button" style="" align="center">คะแนน 8/10</a>
 
   	<h2>เอกราช เก่งทุกทาง (ฉายา)</h2>
 
-  	<p >นักพากย์ คือผู้ที่ให้เสียงสำหรับภาพยนตร์เอะนิเมะชัน ภาพยนตร์ต่างประเทศ การ์ตูน ละครทีวี หรือวิทยุ นักพากย์การ์ตูน นักพากย์เสียงอาจจะใช้ฉายา ของตัวเองในการพากย์เพื่อให้ ผู้ฟังหรือผู้ชมจดจำได้ง่าย เช่น น้าต๋อยเซมเบ้ หลายครั้งที่นักพากย์เสียงไม่เป็นที่รู้จักของประชาชน เนื่องจากไม่ได้ปรากฏตัวให้ผู้อื่นจำหน้าได้ บางครั้งอาจให้นักแสดงที่มีชื่อเสียงมาเป็นนักพากย์ เพื่อให้ผู้ชมจำเสียงได้</p>
-	<div align="center" > 
-        <p><a class="btn btn-primary btn-lg" role="button" style="margin-top:50px;">Read more & Comment</a></p>
+<!--   	<p >นักพากย์ คือผู้ที่ให้เสียงสำหรับภาพยนตร์เอะนิเมะชัน ภาพยนตร์ต่างประเทศ การ์ตูน ละครทีวี หรือวิทยุ นักพากย์การ์ตูน นักพากย์เสียงอาจจะใช้ฉายา ของตัวเองในการพากย์เพื่อให้ ผู้ฟังหรือผู้ชมจดจำได้ง่าย เช่น น้าต๋อยเซมเบ้ หลายครั้งที่นักพากย์เสียงไม่เป็นที่รู้จักของประชาชน เนื่องจากไม่ได้ปรากฏตัวให้ผู้อื่นจำหน้าได้ บางครั้งอาจให้นักแสดงที่มีชื่อเสียงมาเป็นนักพากย์ เพื่อให้ผู้ชมจำเสียงได้</p>
+ -->	
+ <br>
+  <br>
 
-    <iframe width="560" height="315" src="//www.youtube.com/embed/nRsfC5ErY_c" frameborder="0" allowfullscreen ></iframe></div>
+ <div  > 
+        <p> 
+<a class="btn btn-danger btn-lg" role="button" style="" >คะแนน 8/10</a>
+<a class="btn btn-primary btn-lg" role="button" >Read more & Comment</a></p>
 
+<!--     <iframe width="560" height="315" src="//www.youtube.com/embed/nRsfC5ErY_c" frameborder="0" allowfullscreen ></iframe></div>
+ -->
   </div>
 
     </div>
