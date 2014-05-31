@@ -26,8 +26,8 @@ echo  "<div class='jumbotron'><div class ='big_fram' style='' align='center'   >
 "</div>".
 "</div>";
 
-?>
-*
+
+/*
 echo "<tr>";
 echo "<td><img style='width:300px; height;200px;' src='".$row['picture']."'></td>";
 echo "<td>".$row['firstname']."</td>";
