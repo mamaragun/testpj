@@ -1,5 +1,5 @@
 <?
-
+"echo test";
 header ('Content-type: text/html; charset=utf-8');
 include "lib/json_th.php";
 include "config.php";
