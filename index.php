@@ -1,6 +1,4 @@
-<?php
-echo "<img src='http://f.ptcdn.info/453/009/000/1378645129-373b47d37d-o.jpg'/>";
-?>
+
 <html>
 	<head>
       <meta charset="utf-8">
