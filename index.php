@@ -85,7 +85,15 @@
  	<div class="col-md-2 column">
     </div>
 
-    <div class="col-md-8 column ">
+    <div class="col-md-8 column " style="">
+	<table class='table bordered' style="background-color:#E2E2E2">
+	 <tr>
+	<td>  <img src='http://t2.gstatic.com/images?q=tbn:ANd9GcQr2sr9VcoijmctscWiRbJhLHYGuTSpT9N2kRD04fYgObKQbVwO'  style="margin-left:-80px;"/> </td>
+	</tr>
+</table>
+
+
+
 	<div class="jumbotron">
     <div class ="big_fram"style="" align="center"   >
       <div class= "big_face">
