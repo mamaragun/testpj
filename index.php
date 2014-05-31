@@ -86,11 +86,8 @@
     </div>
 
     <div class="col-md-8 column " style="">
-	<table class='table bordered' style="background-color:#E2E2E2">
-	 <tr>
-	<td>  <img src='http://t2.gstatic.com/images?q=tbn:ANd9GcQr2sr9VcoijmctscWiRbJhLHYGuTSpT9N2kRD04fYgObKQbVwO'  style="margin-left:-80px;"/> </td>
-	</tr>
-</table>
+	 <img src='http://localhost/testpj/banner4.jpg'  style="margin-bottom:20px; margin-left:-25px;" /> 
+	
 
 
 
