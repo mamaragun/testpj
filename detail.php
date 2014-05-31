@@ -86,7 +86,7 @@
     </div>
 
     <div class="col-md-8 column ">
-         <img src='http://128.199.230.16/ratchaprasong/banner4.jpg'  style="margin-bottom:20px; margin-left:-25px;" /> 
+         <img src='http://128.199.230.16/ratchaprasong/banner4.jpg'  style="margin-bottom:20px;" /> 
 
 	<div class="jumbotron">
        <div class ="big_fram"style="" align="center"   >
