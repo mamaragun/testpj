@@ -114,6 +114,7 @@ echo "<img src='http://f.ptcdn.info/453/009/000/1378645129-373b47d37d-o.jpg'/>";
 
 
 </html>
+<<<<<<< HEAD
 
 
 <?php
@@ -128,3 +129,5 @@ echo "<img src='http://f.ptcdn.info/453/009/000/1378645129-373b47d37d-o.jpg'/>";
 
 
 ?>
+=======
+>>>>>>> a81f52e599bbe529b8a6cde259508ed524661ba3

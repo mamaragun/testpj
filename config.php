@@ -1,10 +1,6 @@
 <?php
- 
 // Set time zone
-date_default_timezone_set("Asia/Bangkok");
- 
- 
-# Database Configuration
+# Database Configuration 
 $dbuser = 'ratchaprasong';
 $dbpass = 'ratchaprasong';
 $dbhost = 'localhost';
@@ -18,4 +14,3 @@ $objConnect = mysql_connect ($dbhost, $dbuser, $dbpass) or die("Could not connec
                         mysql_query("SET character_set_connection=utf8");
                        
  
-?>
